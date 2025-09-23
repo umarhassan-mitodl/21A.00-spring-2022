@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "7768c26c-eca1-2f3a-74e6-dda1ddb5c354"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "27069ba3-126f-4bbf-81b7-012c34fd7a41",
+    "website": "introduction-to-anthropology"
+  },
+  "course_title": "Introduction to Anthropology",
+  "course_description": "Through the comparative study of different cultures, anthropology explores fundamental questions about what it means to be human. It seeks to understand how culture shapes societies, from the smallest island in the South Pacific to the largest Asian metropolis, and affects the way institutions work, from scientific laboratories to Christian megachurches. This course will provide a framework for analyzing diverse facets of human experience, such as gender, ethnicity, language, politics, economics, and art.",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.00",
+  "course_image_thumbnail": {
+    "content": "134ee40d-f0c8-4556-a453-b8a09a496c97",
+    "website": "introduction-to-anthropology"
+  },
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Instructor Insights",
+    "Written Assignments with Examples",
+    "Readings"
+  ],
+  "site_uid": "9712ca68-52ec-461b-ad70-5ef74fe5e272",
+  "site_short_id": "21A.00-spring-2022",
+  "site_url_path": "courses/21a-00-introduction-to-anthropology-spring-2022"
+}

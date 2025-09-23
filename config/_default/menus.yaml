@@ -1,0 +1,36 @@
+leftnav:
+- identifier: 23c57b99-1d2e-49c0-9a1c-88e6868c2ad9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b97e2122-ae28-44fa-a8e0-094b4d017cac
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 211fb6ec-f269-4e1d-a6fd-0ffa12227689
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 48098d0a-e0a4-4c11-bfe0-31b7aff16672
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: cdc992c6-0573-497d-8ab0-f07da01975f1
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 712067eb-91d7-44e9-85ea-7ba2af249fae
+  name: Commentaries
+  pageRef: /pages/commentaries
+  parent: cdc992c6-0573-497d-8ab0-f07da01975f1
+  weight: 10
+- identifier: 01e89a74-af4a-45f6-905b-a718804e7079
+  name: Research Paper 1 - Ritual Ethnography
+  pageRef: /pages/research-paper-1
+  parent: cdc992c6-0573-497d-8ab0-f07da01975f1
+  weight: 20
+- identifier: 0eae2b99-fa2c-4337-b0ed-ea835cead243
+  name: Research Paper 2 - Ritual Design
+  pageRef: /pages/research-paper-2
+  parent: cdc992c6-0573-497d-8ab0-f07da01975f1
+  weight: 30
