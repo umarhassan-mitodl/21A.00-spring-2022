@@ -26,7 +26,7 @@ Through the comparative study of different cultures, anthropology explores funda
 
 ### Required Texts
 
-Graeber, David, and David Wengrow. *The Dawn of Everything: A New History of Humanity*. Farrar, Straus and Giroux, 2021. ISBN: ‎9780374157357. \[Preview with {{% resource_link "5c089081-8dfb-4cce-9b3d-caaa1c7fc950" "Google Books" %}}\]
+Graeber, David, and David Wengrow. *The Dawn of Everything: A New History of Humanity*. Farrar, Straus and Giroux, 2021. ISBN: ‎9780374157357. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dawn_of_Everything/9xkQEAAAQBAJ?hl=en&gbpv=1)\]
 
 ### Reading Assignments
 

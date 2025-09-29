@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains information on the commentary papers.
 draft: false
+hide_download: true
+hide_download_original: null
 title: Commentaries
 uid: 712067eb-91d7-44e9-85ea-7ba2af249fae
 ---
@@ -9,11 +11,11 @@ Of the 10 prompts for 2-page (double-spaced) reading commentaries, students will
 
 **Session 4 Commentary paper**
 
-Compare the experiences of cultural contact described in *The Dawn of Everything* with {{% resource_link "b7af7728-1c83-420c-bd1b-bce6cc0b6a5c" "*First Contact*" %}}. With allowances made for different historical circumstances, what similarities do you notice? Is there evidence of an indigenous critique?
+Compare the experiences of cultural contact described in *The Dawn of Everything* with [*First Contact*](https://www.imdb.com/title/tt0085544/?ref_=nv_sr_srsg_4). With allowances made for different historical circumstances, what similarities do you notice? Is there evidence of an indigenous critique?
 
 **Session 6 Commentary paper**
 
-How does the discussion of “political self-consciousness” in *The Dawn of Everything* apply to the events in {{% resource_link "34042cfa-660f-4e8f-8eae-5599e722a5ee" "*Joe Leahy’s Neighbours*" %}}? What different models of politics and personhood do various parties in the film embrace?
+How does the discussion of “political self-consciousness” in *The Dawn of Everything* apply to the events in [*Joe Leahy’s Neighbours*](https://www.imdb.com/title/tt0460476/?ref_=nv_sr_srsg_0)? What different models of politics and personhood do various parties in the film embrace?
 
 **Session 7 Commentary paper**
 
@@ -25,7 +27,7 @@ How do the anthropological research methods in described in today’s readings c
 
 **Session 9 Commentary paper**
 
-How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private property connect to the events depicted in {{% resource_link "c1dc830a-7477-4950-926a-9f5c6639e1b5" "*Black Harvest*" %}}?
+How do Graeber and Wengrow’s analyses of egalitarianism, autonomy, and private property connect to the events depicted in [*Black Harvest*](https://www.imdb.com/title/tt0103817/?ref_=fn_al_tt_1)?
 
 *Student Example*
 
@@ -51,7 +53,7 @@ Conduct a ritual self-inventory. Spend a day keeping track of the formal and inf
 
 **Session 17 Commentary paper**
 
-What kinds of theories of culture can you find on display at the {{% resource_link "7c30a445-b3fa-4509-93f4-ec2f4ef128f9" "Peabody Museum of Archaeology & Ethnology" %}}? Do you notice any tensions between competing theories?
+What kinds of theories of culture can you find on display at the [Peabody Museum of Archaeology & Ethnology](https://peabody.harvard.edu/home)? Do you notice any tensions between competing theories?
 
 **Session 19 Commentary paper**
 
@@ -73,7 +75,7 @@ Reflecting on this week’s readings and our conversation with James Shen, discu
 
 **Session 23 Commentary paper**
 
-*The* *Dawn of Everything* ends on a note of optimism about humanity’s prospects for “getting unstuck” from restrictive/repressive social formations. Does {{% resource_link "9fbf6ac6-ec45-4f6c-a90a-6e634377f21b" "*Nomadland*" %}} reflect that optimism, or does it suggest a bleaker vision?
+*The* *Dawn of Everything* ends on a note of optimism about humanity’s prospects for “getting unstuck” from restrictive/repressive social formations. Does [*Nomadland*](https://www.imdb.com/title/tt9770150/?ref_=fn_al_tt_1) reflect that optimism, or does it suggest a bleaker vision?
 
 *Student Examples*
 

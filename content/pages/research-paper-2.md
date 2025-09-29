@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains information for the second research paper.
 draft: false
+hide_download: true
+hide_download_original: null
 title: Research Paper 2 - Ritual Design
 uid: 0eae2b99-fa2c-4337-b0ed-ea835cead243
 ---
@@ -22,7 +24,7 @@ Create shared rituals to enhance this class. An academic class is a ritual form 
 Workshop I (Session 15): Open-ended ideation
 
 - Working in 4–5 randomly assigned groups, develop lo-fi classroom ritual wireframe for presentation at end of class.
-- Use “{{% resource_link "e02b2944-0d49-4f41-8a9d-894886654ddd" "Ritual Design Toolkit" %}}” (RDT) Section 1 (“Scope”) and Appendix A.
+- Use “[Ritual Design Toolkit](https://spiral.imperial.ac.uk/handle/10044/1/83960)” (RDT) Section 1 (“Scope”) and Appendix A.
 - Decide on appropriate components for future phases.
 
 Workshop II (Session 19): Small group work on specific design components
@@ -46,27 +48,27 @@ Students may submit a 4-page paper individually reflecting on their group’s wo
 
 **Bibliography**
 
-Murphy, Keith M. “{{% resource_link "5d008086-0a3a-4596-a1a8-425a020e464f" "Design and Anthropology" %}}.” *Annual Review of Anthropology* 45 (2016): 433–49.
+Murphy, Keith M. “[Design and Anthropology](https://www.annualreviews.org/doi/abs/10.1146/annurev-anthro-102215-100224).” *Annual Review of Anthropology* 45 (2016): 433–49.
 
-Van Willigen, John. *Applied Anthropology: An Introduction*. 3rd ed. Praeger, 2002. ISBN: ‎9780897898331. \[Preview with {{% resource_link "60341221-acc2-496c-ba03-a44b583b1f3d" "Google Books" %}}\]
+Van Willigen, John. *Applied Anthropology: An Introduction*. 3rd ed. Praeger, 2002. ISBN: ‎9780897898331. \[Preview with [Google Books](https://www.google.com/books/edition/Applied_Anthropology/9OGJXkEV7LgC?hl=en&gbpv=1)\]
 
 **Examples of Ritual Design Practices**
 
-Stanford’s {{% resource_link "2133b144-ccd3-4704-8eb7-56195d9e6463" "Ritual Design Lab" %}}
+Stanford’s [Ritual Design Lab](https://www.ritualdesignlab.org/)
 
-Harvard’s {{% resource_link "c0187fc8-de32-4df9-b485-f61d77ac92c4" "Vision Lab" %}}
+Harvard’s [Vision Lab](https://cmp.gsas.harvard.edu/2019/04/18/vision-lab-by-kythe-heller/)
 
-{{% resource_link "36d7c62d-6100-4dc6-9881-956e299e9351" "Sacred Design Lab" %}}
+[Sacred Design Lab](https://sacred.design/)
 
-{{% resource_link "1102a431-1278-4bc9-bfa8-dcabf36a7728" "Ezra Bookman" %}}
+[Ezra Bookman](https://www.ezrabookman.com/)
 
-{{% resource_link "bcb3c1b5-4233-4a83-b433-047e79acd2ac" "Jeltje Gordon-Lennox" %}}
+[Jeltje Gordon-Lennox](https://gordon-lennox.ch/en/rituals)
 
-{{% resource_link "a91cee01-bee8-41a1-b3e7-8b1e11d00056" "Tiu de Haan" %}}
+[Tiu de Haan](https://www.tiudehaan.com/)
 
-{{% resource_link "44f2c965-fc6d-4c4c-84ff-f35a56e9fe82" "Kythe Heller" %}}
+[Kythe Heller](https://cmp.gsas.harvard.edu/directory/kythe-heller/)
 
-{{% resource_link "7ff90bca-4967-48f8-b7dd-c26e50d4d5b0" "Casper ter Kuile" %}}
+[Casper ter Kuile](https://www.caspertk.com/)
 
 *Student Examples*
 
