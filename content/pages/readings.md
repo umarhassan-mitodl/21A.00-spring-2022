@@ -5,7 +5,7 @@ draft: false
 title: Readings
 uid: 48098d0a-e0a4-4c11-bfe0-31b7aff16672
 ---
-\[G\] = Graeber, David, and David Wengrow. *The Dawn of Everything: A New History of Humanity*. Farrar, Straus and Giroux, 2021. ISBN: ‎9780374157357. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dawn_of_Everything/9xkQEAAAQBAJ?hl=en&gbpv=1)\]
+\[G\] = Graeber, David, and David Wengrow. *The Dawn of Everything: A New History of Humanity*. Farrar, Straus and Giroux, 2021. ISBN: ‎9780374157357. \[Preview with {{% resource_link "3db8796b-22b2-43c4-a834-cc0312747ad1" "Google Books" %}}\]
 
 ### Session 1: Overview of Class
 
@@ -33,9 +33,9 @@ No readings assigned.
 
 ### Session 7: Ethnographic Methods and Participant Observation
 
-Abidin, Crystal. “[Somewhere between Here and There: Negotiating Researcher Visibility in a Digital Ethnography of the Influencer Industry](https://jdsr.se/ojs/index.php/jdsr/article/view/20/15).” *Journal of Digital Social Research* 2, no. 1 (2020): 56–76.
+Abidin, Crystal. “{{% resource_link "1fc69c44-957a-4752-b36a-b488caf7f49c" "Somewhere between Here and There: Negotiating Researcher Visibility in a Digital Ethnography of the Influencer Industry" %}}.” *Journal of Digital Social Research* 2, no. 1 (2020): 56–76.
 
-Johnson, Norris Brock. “[Sex, Color, and Rites of Passage in Ethnographic Research](https://www.researchgate.net/publication/277358618_Sex_Color_and_Rites_of_Passage_In_Ethnographic_Research).” *Human Organization* 43, no. 2 (1984): 108–20.
+Johnson, Norris Brock. “{{% resource_link "b25cc275-c768-47e9-9554-630027c08dcf" "Sex, Color, and Rites of Passage in Ethnographic Research" %}}.” *Human Organization* 43, no. 2 (1984): 108–20.
 
 ### Session 8: *Highlands Trilogy*, Part 3
 
@@ -49,7 +49,7 @@ No readings assigned.
 
 Durkheim, Emile. “Origin of These Beliefs (Conclusion): Origin of the Notion of Totemic Principle, or Mana.” Chapter 7 in *Elementary Forms of the Religious Life*. Translated by Karen E. Field. Free Press, 1995. ISBN: ‎9780029079379. 
 
-Wong, Jamie, Crystal Lee, et al. “[‘Let’s Go, Baby Forklift!’: Fandom Governance and the Political Power of Cuteness in China](https://journals.sagepub.com/doi/full/10.1177/20563051211024960).” *Social Media + Society* 7, no. 2 (2021): 1–18.
+Wong, Jamie, Crystal Lee, et al. “{{% resource_link "1906971d-1f46-4328-927e-65c988a5ca42" "‘Let’s Go, Baby Forklift!’: Fandom Governance and the Political Power of Cuteness in China" %}}.” *Social Media + Society* 7, no. 2 (2021): 1–18.
 
 ### Session 11: Ritual and Expressive Culture
 
@@ -65,15 +65,15 @@ No readings assigned.
 
 ### Session 14: Can Rituals Be Designed?
 
-Gordon-Lennox, Jeltje. “The Rhyme and Reason of Ritualmaking.” Chapter 4 in *Emerging Ritual in Secular Societies: A Transdisciplinary Conversation*. Edited by Jeltje Gordon-Lennox. Jessica Kingsley Publishers, 2017. ISBN: ‎9781785920837. \[Preview with [Google Books](https://www.google.com/books/edition/Emerging_Ritual_in_Secular_Societies/NBqZDQAAQBAJ?hl=en&gbpv=1)\]
+Gordon-Lennox, Jeltje. “The Rhyme and Reason of Ritualmaking.” Chapter 4 in *Emerging Ritual in Secular Societies: A Transdisciplinary Conversation*. Edited by Jeltje Gordon-Lennox. Jessica Kingsley Publishers, 2017. ISBN: ‎9781785920837. \[Preview with {{% resource_link "d6fea23e-acee-448f-921e-937ddade529d" "Google Books" %}}\]
 
-Lévy, Pierre. “[Exploring the Challenge of Designing Rituals](https://www.researchgate.net/publication/295400029_Exploring_the_challenge_of_designing_rituals).” Paper presented at the 6<sup>th</sup> International Congress of International Association of Societies of Design Research, Brisbane, Australia, November 2015.
+Lévy, Pierre. “{{% resource_link "9774fb13-3a2e-489a-96a4-5c3230a57c88" "Exploring the Challenge of Designing Rituals" %}}.” Paper presented at the 6<sup>th</sup> International Congress of International Association of Societies of Design Research, Brisbane, Australia, November 2015.
 
 ### Session 15: Ritual Workshop I: The “Ritual Design Toolkit”
 
-Baxter, W., S. Roots, et al. “[Ritual Design Toolkit](https://spiral.imperial.ac.uk/handle/10044/1/83960).” Interaction Foundry, 2020.
+Baxter, W., S. Roots, et al. “{{% resource_link "1fa72c18-a85b-4c4d-ab21-d046816d39ef" "Ritual Design Toolkit" %}}.” Interaction Foundry, 2020.
 
-### Session 16: [Peabody Museum of Archaeology & Ethnology](https://peabody.harvard.edu/home) Field Trip
+### Session 16: {{% resource_link "09522e73-2515-4fda-a0dd-632ae322ef3b" "Peabody Museum of Archaeology & Ethnology" %}} Field Trip
 
 \[G\] Chapter 5: Many Seasons Ago.
 
@@ -83,15 +83,15 @@ No readings assigned.
 
 ### Session 18: *Bored in Heaven*
 
-Jiménez,  Alberto Corsín, and Adolfo Estalella. “[Ethnography: A Prototype](https://www.tandfonline.com/doi/abs/10.1080/00141844.2015.1133688?journalCode=retn20).” *Ethnos* 82, no. 5 (2017): 846–66.
+Jiménez,  Alberto Corsín, and Adolfo Estalella. “{{% resource_link "9d2757d3-99d8-4ee6-97de-9360ea8d8301" "Ethnography: A Prototype" %}}.” *Ethnos* 82, no. 5 (2017): 846–66.
 
-Farquhar, Judith, and Qicheng Zhang.  “[Biopolitical Beijing: Pleasure, Sovereignty, and Self-Cultivation in China’s Capital](https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/can.2005.20.3.303).” *Cultural Anthropology* 20, no. 3 (2005): 303–27.
+Farquhar, Judith, and Qicheng Zhang.  “{{% resource_link "541885b8-aec2-4a86-bea0-0c8e568e5932" "Biopolitical Beijing: Pleasure, Sovereignty, and Self-Cultivation in China’s Capital" %}}.” *Cultural Anthropology* 20, no. 3 (2005): 303–27.
 
 ### Session 19: Ritual Workshop II
 
 No readings assigned.
 
-### Session 20: Guest: James Shen, Principal, [People’s Architecture Office](http://peoples-architecture.com/pao/en)
+### Session 20: Guest: James Shen, Principal, {{% resource_link "33e926a0-8015-49e9-b868-a69a514696a2" "People’s Architecture Office" %}}
 
 \[G\] Chapter 8: Imaginary Cities.
 

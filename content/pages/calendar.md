@@ -11,7 +11,7 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 
 ### Session 3: *Highlands Trilogy*, Part 1
 
-*Screening:* [*First Contact*](https://www.imdb.com/title/tt0085544/?ref_=nv_sr_srsg_4). Directed by Robin Anderson and Bob Connolly. Color, 58 min. 1982.
+*Screening:* {{% resource_link "89ea9f7e-4253-475c-a593-fb4bdb005911" "*First Contact*" %}}. Directed by Robin Anderson and Bob Connolly. Color, 58 min. 1982.
 
 ### Session 4: Cross-cultural Contact
 
@@ -19,7 +19,7 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 
 ### Session 5: *Highlands Trilogy*, Part 2
 
-*Screening:* [*Joe Leahy’s Neighbours*](https://www.imdb.com/title/tt0460476/?ref_=nv_sr_srsg_0)*.* Directed by Robin Anderson and Bob Connolly. Color, 90 min. 1989.
+*Screening:* {{% resource_link "7191ace9-c8ff-47a2-a03b-4273fb3ad3f7" "*Joe Leahy’s Neighbours*" %}}*.* Directed by Robin Anderson and Bob Connolly. Color, 90 min. 1989.
 
 ### Session 6: Human Origins and Social Evolution
 
@@ -31,7 +31,7 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 
 ### Session 8: *Highlands Trilogy*, Part 3
 
-*Screening:* [*Black Harvest*](https://www.imdb.com/title/tt0103817/?ref_=fn_al_tt_1). Directed by Robin Anderson and Bob Connolly. Color, 90 min. 1992.
+*Screening:* {{% resource_link "918e8b60-918b-4f14-ad55-3c68d134fd9c" "*Black Harvest*" %}}. Directed by Robin Anderson and Bob Connolly. Color, 90 min. 1992.
 
 ### Session 9: Politics and Ritual
 
@@ -39,7 +39,7 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 
 ### Session 10: *Feels Good Man*
 
-*Screening:* [*Feels Good Man*](https://www.imdb.com/title/tt11394182/?ref_=fn_al_tt_1). Directed by Arthur Jones. Color, 92 min. 2020.
+*Screening:* {{% resource_link "08d9dff0-625e-4e63-a543-bad99ddecd96" "*Feels Good Man*" %}}. Directed by Arthur Jones. Color, 92 min. 2020.
 
 ### Session 11: Ritual and Expressive Culture
 
@@ -57,7 +57,7 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 
 *Commentary paper due*
 
-### Session 16: [Peabody Museum of Archaeology & Ethnology](https://peabody.harvard.edu/home) Field Trip
+### Session 16: {{% resource_link "09522e73-2515-4fda-a0dd-632ae322ef3b" "Peabody Museum of Archaeology & Ethnology" %}} Field Trip
 
 ### Session 17: Representing and Displaying Culture
 
@@ -65,13 +65,13 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 
 ### Session 18: *Bored in Heaven*
 
-*Screening:* [*Bored in Heaven*](https://www.imdb.com/title/tt1920863/?ref_=fn_al_tt_1)*.* Directed by Kenneth Dean and Cora Dean. Color, 80 min. 2011.
+*Screening:* {{% resource_link "63daa709-d834-44b6-91f9-58b4f5519bac" "*Bored in Heaven*" %}}*.* Directed by Kenneth Dean and Cora Dean. Color, 80 min. 2011.
 
 ### Session 19: Ritual Workshop II
 
 *Commentary paper due*
 
-### Session 20: Guest: James Shen, Principal, [People’s Architecture Office](http://peoples-architecture.com/pao/en)
+### Session 20: Guest: James Shen, Principal, {{% resource_link "33e926a0-8015-49e9-b868-a69a514696a2" "People’s Architecture Office" %}}
 
 ### Session 21: City as Theater
 
@@ -79,7 +79,7 @@ uid: b97e2122-ae28-44fa-a8e0-094b4d017cac
 
 ### Session 22: *Nomadland*
 
-Screening: [*Nomadland*](https://www.imdb.com/title/tt9770150/?ref_=fn_al_tt_1). Directed by Chloé Zhao. Color, 107 min. 2020.
+Screening: {{% resource_link "aea02722-c3d9-4a51-a8a5-2fd87f909522" "*Nomadland*" %}}. Directed by Chloé Zhao. Color, 107 min. 2020.
 
 ### Session 23: Uncertainty, Precarity, Futurity
 
